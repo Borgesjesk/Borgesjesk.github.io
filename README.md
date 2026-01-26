@@ -35,3 +35,4 @@ With over a decade of professional experience across the US and Europe, I bring 
 - 🛡️ Currently completing **Course 5/8** of the Google Cybersecurity Certificate.
 - 📊 Learning Data Visualization and Machine Learning via **IBM Data Science**.
 - 📫 Connect with me on [LinkedIn](www.linkedin.com/in/jessica-borges-553139180)
+- [📄 View my CV/Resume](./Jessica_Borges_CV.pdf)
