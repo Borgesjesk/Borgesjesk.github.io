@@ -1,67 +1,50 @@
-# 👩‍💻 Jéssica Maria Silva Borges
-### Trilingual GRC & Cybersecurity Professional | IBM Data Science Scholar
-**📍 Spain (Remote / Hybrid / Relocation)** **[LinkedIn](https://www.linkedin.com/in/jessica-borges-cyber) | [Cybersecurity Portfolio](https://github.com/Borgesjesk/Cybersecurity-Portfolio) | [Email](jessborgesb@gmail.com)**
+# 👋 I'm Jessica Borges
+
+**Java Backend Developer @ IT Academy | Cybersecurity & IBM Data Science Scholar** **Senior Professional: 6+ Years EU Logistics Mediation & US Management**
+
+**📍 Spain (Remote / Hybrid / Relocation)** **[LinkedIn](https://www.linkedin.com/in/jessica-borges-cyber) | [Cybersecurity Portfolio](https://github.com/Borgesjesk/Cybersecurity-Portfolio) | [Email Me](mailto:jessica.your.email@gmail.com)**
 
 ---
 
-## 🔐 Professional Summary
-Trilingual Cybersecurity and Data Analyst with over 10 years of experience in high-stakes operations and international logistics mediation. Currently bridging the gap between human conflict resolution and technical security through a **Google Cybersecurity Professional Certificate** and an **IBM Data Science Scholarship**. 
+### 🚀 The "Hybrid" Advantage
+I bridge **6+ years of high-stakes Conflict Resolution and International Logistics Mediation** with technical mastery in **Java Spring Boot**, **Cybersecurity**, and **Data Science**. My experience at **WTRANSNET** (Alpega Group) built a "Zero-Failure" mindset that I apply to building secure, scalable, and resilient backend systems.
 
-Expert in translating complex technical risks for diverse stakeholders and strengthening organizational resilience. Specialized in **GRC (Governance, Risk, and Compliance)**, road freight logistics security, and data-driven risk management.
-
----
-
-## 🛡️ Cybersecurity & Data Skills
-* **Security Foundations:** NIST CSF, Risk Assessment (SP 800-53), Incident Response.
-* **Technical Analysis:** SQL for Security Auditing, Python for Automation, Linux CLI & IAM.
-* **Monitoring & Tools:** SIEM (Chronicle/Splunk), Wireshark, Network Security.
-* **Data Science:** Data Visualization, Statistical Analysis, Predictive Modeling (IBM Path).
-* **Languages:** Portuguese (Native), Spanish (Fluent), English (Fluent).
+### 🛠️ Technical Focus & Training
+* **Java Backend (IT Academy Barcelona Activa):** * **Sprint 1 Completed:** Java Fundamentals (Polymorphism, Collections, Testing, Lambdas & Streams).
+    * **Sprint 2 In Progress:** Advanced Spring Boot structures & REST APIs.
+* **Cybersecurity:** Finalizing **Course 7/8** of the Google Cybersecurity Professional Certificate.
+* **Data Science:** **IBM Scholar** focusing on predictive analytics and risk management.
 
 ---
 
-## 🛠️ Technical Toolbox
-* **OS/CLI:** Linux (Ubuntu/Debian), Bash Scripting.
-* **Languages:** SQL, Python.
-* **Business Tools:** Salesforce CRM, Advanced Excel, Tableau.
-* **Frameworks:** NIST, GDPR, EU Logistics Compliance.
+### 📊 Professional Skills Bridge
+| 🚢 Logistics & Mediation | 💻 Technical & Security Application |
+| :--- | :--- |
+| **Financial Dispute Mediation** | Logic-driven Debugging & Problem Solving |
+| **EU Transport Regulations** | GRC (Governance, Risk, & Compliance) |
+| **Logistics Flow Optimization** | Backend Architecture & API Efficiency |
+| **Crisis Management** | Incident Response & System Reliability |
 
 ---
 
-## 💼 Professional Experience
-
-### Senior Specialist Mediator | Alpega Group (WTRANSNET)
-*6+ Years | Logistics & Freight Exchange*
-* **Risk Mitigation:** Managed high-value financial disputes and logistical bottlenecks, ensuring the **Integrity** and **Availability** of European road freight operations.
-* **Data-Driven Analysis:** Conducted market analysis to predict operational risks and support secure international logistics.
-* **Compliance & Governance:** Ensured all mediation processes adhered to strict EU regulatory standards and data privacy requirements.
-
-### Operations & Team Leadership | Culinary Sector (USA)
-*4+ Years | Crisis & Resource Management*
-* **Operational Security:** Oversaw safety, quality, and physical security protocols in high-pressure environments.
-* **Crisis Response:** Acted as a first-line responder for operational emergencies, maintaining team performance and business continuity.
-* **Leadership:** Managed diverse teams, translating operational goals into actionable daily security and safety tasks.
+### 🧰 Technical Toolbox
+* **Languages:** Java (OOP, Lambdas, Streams, JUnit 5), SQL, Python.
+* **Security:** NIST CSF, Risk Assessment (SP 800-53), SIEM (Chronicle/Splunk), Linux CLI.
+* **Data:** Statistical Analysis, Tableau, Advanced Excel.
+* **Soft Skills:** International Mediation, Crisis Leadership, Trilingual (**EN/ES/PT**).
 
 ---
 
-## 📁 Featured Cybersecurity Projects
+### 📁 Featured Portfolios & Projects
 
-### [🛡️ NIST 800-53 Risk Assessment](https://github.com/Borgesjesk/Cybersecurity-Portfolio)
-Analyzed organizational vulnerabilities and applied NIST SP 800-53 controls to mitigate security risks and improve compliance posture.
+#### 🛡️ [Cybersecurity Portfolio (Master Repository)](https://github.com/Borgesjesk/Cybersecurity-Portfolio)
+* **NIST 800-53 Risk Assessment:** Vulnerability analysis and control implementation.
+* **SQL Security Investigation:** Auditing access logs for unauthorized entry.
+* **Linux IAM:** Managing permissions and the Principle of Least Privilege.
 
-### [🔍 SQL Security Investigation](https://github.com/Borgesjesk/Cybersecurity-Portfolio)
-Authored complex SQL queries to audit database access logs, identifying unauthorized entry attempts and filtering sensitive data for compliance.
-
-### [🔑 Linux IAM & Security Auditing](https://github.com/Borgesjesk/Cybersecurity-Portfolio)
-Managed Identity and Access Management (IAM) through the Linux CLI, configuring file permissions and auditing user roles to ensure the Principle of Least Privilege.
-
----
-
-## 🎓 Education & Certifications
-* **Google Cybersecurity Professional Certificate** (In Progress - Course 5/8)
-* **IBM Data Science Professional Scholarship** (In Progress)
-* **Culinary Arts Certification** – San Diego College of Continuing Education (USA)
-* **Prior Studies:** Architecture & Urbanism.
+#### ☕ Java Backend Highlights (IT Academy)
+* [**Java Sprint 1: Lambdas & Streams**](https://github.com/Borgesjesk/S1.08-Lambdas-Streams) - Functional programming implementation.
+* [**Java Sprint 1: Testing**](https://github.com/Borgesjesk/S1.04-Testing) - Unit testing with JUnit 5 and AssertJ.
 
 ---
-*Generated via Borgesjesk Portfolio*
+*Professionalism is the bridge between code and business value.*
